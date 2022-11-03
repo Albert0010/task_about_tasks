@@ -1,0 +1,5 @@
+.column{
+    display: flex;
+    gap: 5px;
+    width: 50px;
+}
